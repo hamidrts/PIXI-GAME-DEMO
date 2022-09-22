@@ -1,0 +1,15 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/graphics-extras": "^6.5.3",
+    "pixi.js": "^6.5.3"
+  }
+}
